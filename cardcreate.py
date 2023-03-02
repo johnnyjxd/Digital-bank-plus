@@ -1,0 +1,6 @@
+print("welcome to the bank, if you want to create a credit card, start with typing its number") 
+card_number = input("enter card number here: ")
+print("from now on your credit card number is" + card_number)
+print("now how much do you want to put on it so far")
+card_ammount = input("enter the ammount here: ")
+print("card number " +card_number+ "has" +card_ammount+ "on it")
